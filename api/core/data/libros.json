@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "title": "El infinito en un junco",
+        "author": "Irene Vallejo",
+        "category": "Ensayo",
+        "price": 15,
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "title": "El problema de los tres cuerpos",
+        "author": "Cixin Liu",
+        "category": "Ciencia ficcion",
+        "price": 15.5,
+        "stock": 8
+    },
+    {
+        "id": 3,
+        "title": "Sindrome de Ulises",
+        "author": "Santiago Gamboa",
+        "category": "Narrativa",
+        "price": 14.9,
+        "stock": 20
+    },
+    {
+        "id": 4,
+        "title": "Reina roja",
+        "author": "Juan Gomez-Jurado",
+        "category": "Thriller",
+        "price": 20.99,
+        "stock": 7
+    },
+    {
+        "id": 5,
+        "title": "La anomalia",
+        "author": "Herve Le Tellier",
+        "category": "Ficcion contemporanea",
+        "price": 17.4,
+        "stock": 13
+    },
+    {
+        "id": 6,
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "category": "Ciencia ficcion",
+        "price": 21.5,
+        "stock": 6
+    },
+    {
+        "id": 7,
+        "title": "El libro negro de las horas",
+        "author": "Eva Garcia Saenz de Urturi",
+        "category": "Novela negra",
+        "price": 15,
+        "stock": 10
+    },
+    {
+        "id": 8,
+        "title": "La bestia",
+        "author": "Carmen Mola",
+        "category": "Thriller historico",
+        "price": 18.99,
+        "stock": 3
+    },
+    {
+        "id": 9,
+        "title": "A fuego lento",
+        "author": "Paula Hawkins",
+        "category": "Suspense",
+        "price": 16.25,
+        "stock": 11
+    },
+    {
+        "id": 10,
+        "title": "El hombre que plantaba arboles",
+        "author": "Jean Giono",
+        "category": "Ficcion corta",
+        "price": 12.5,
+        "stock": 7
+    },
+    {
+        "id": 11,
+        "title": "Libro Nuevo",
+        "author": "Pedro",
+        "category": "Ficcion",
+        "price": 20,
+        "stock": 7
+    }
+]
